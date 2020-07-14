@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string-array name="Cities">
+        <item>Berlin</item>
+        <item>London</item>
+        <item>Vancouver</item>
+        <item>Dresden</item>
+        <item>Las-Palmas</item>
+        <item>Oslo</item>
+        <item>Cophenghahen</item>
+        <item>Prya</item>
+        <item>Kiel</item>
+        <item>New-Yourk</item>
+    </string-array>
+
+
+</resources>
